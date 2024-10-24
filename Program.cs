@@ -10,8 +10,7 @@ class Program
     static void Main(string[] args)
     {
         //RSATest();
-        //StreebogTest();
-        KuznechikTest();
+        StreebogTest();
     }
     static void StreebogTest()
     {
