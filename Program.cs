@@ -9,7 +9,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        //RSATest();
         StreebogTest();
     }
     static void StreebogTest()
