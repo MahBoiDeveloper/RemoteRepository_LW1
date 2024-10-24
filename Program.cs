@@ -11,7 +11,6 @@ class Program
     {
         //RSATest();
         //StreebogTest();
-        KuznechikTest();
     }
     static void StreebogTest()
     {
